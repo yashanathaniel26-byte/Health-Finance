@@ -533,7 +533,7 @@ Contributions are welcome! Please follow these steps:
 
 For questions, issues, or suggestions:
 - Create an issue on GitHub
-- Email: [your-email@example.com]
+- Email: [yasernurtaxiano@student.telkomuniversity.ac.id]
 - Documentation: [link-to-docs]
 
 ---
@@ -555,6 +555,5 @@ MIT License
 
 ## 👥 Contributors
 
-- Senior ML Engineer
-- Financial Risk Analyst
-- Software Architect
+- just Allah and Me
+
