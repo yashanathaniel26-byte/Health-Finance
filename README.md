@@ -1,4 +1,5 @@
 # Financial Health & Loan Default Intelligence System
+<img width="1919" height="750" alt="image" src="https://github.com/user-attachments/assets/d6e1c585-04be-4565-98b3-74f968d6d8a0" />
 
 ## 🎯 Overview
 
@@ -556,4 +557,5 @@ MIT License
 ## 👥 Contributors
 
 - just Allah and Me
+
 
